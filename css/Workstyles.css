@@ -1,0 +1,145 @@
+<style>
+
+body{
+    background-color:#e6a4b4;
+}
+
+/*Nav Bar*/
+.navbar{
+   padding:0 0 3.5rem;
+ }
+ .navbar-brand{
+   font-family: 'Langar', cursive;
+   font-size:10px;
+   font-weight:bold;
+ }
+ .nav-item{
+   padding: 0 18px;
+   font-family: 'Montserrat', sans-serif;
+   font-size:1.5rem;
+ }
+ .nav-text{
+   padding: 0 18px;
+   font-family: 'Montserrat', sans-serif;
+   font-size:1.5rem;
+ }
+ .nav-link{
+    font-family: 'Montserrat', sans-serif;
+     font-size:1.5rem;
+ }
+/*Title*/
+#title{
+    background-color: #e6a4b4;
+}
+.container-fluid{
+  padding : 2% 10% 10%;
+}
+h1.title{
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:white;
+  padding : 2% 20%;
+  margin-top: 180px;
+}
+h2.header{
+  text-shadow: 2px 2px 5px #6e6d70;
+  text-decoration: overline;
+  font-style: normal;
+  margin-top: 300px;
+  text-align: center;
+}
+h3.header{
+  padding : 5% 5% 0%;
+}
+h3.game{
+  padding : 2% 5%;
+}
+p.header{
+  padding : 0% 5%;
+  font-size: 1.2rem;
+}
+h5.header{
+  font-style: italic;
+  text-align: center;
+}
+img.igem{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  border-radius:30%;
+  }
+img.title{
+  margin-right: 20px;
+}
+ .title-image-work{
+   border-radius: 30%;
+ }
+ a.nav-text{
+   color:#3e4149;
+ }
+
+ a.nav-text:hover{
+   color:#f3d7ca;
+ }
+ /*Game Carousel*/
+ #carousel{
+     padding : 2% 10% 2%;
+ }
+ p.game-intro{
+   font-size:1.2rem;
+ }
+ img.testimonials-image{
+   margin-right: 20px;
+ }
+ h2.no{
+   font-size: 1.1rem;
+ }
+ #footer{
+   padding:2% 3%;
+   text-align: center;
+ }
+ #Copyright{
+   color:#8f8f8f;
+   margin-bottom: 0;
+ }
+ /*iGEM*/
+ img.game3{
+  display: block;
+  margin-top:50px;
+  margin-left: auto;
+  margin-right: auto;
+  width:450px;
+ }
+ @media(max-width:600px){
+   img.game3{
+     margin-top:50px;
+     position: static;
+   }
+ }
+ p.game-mechanism{
+   text-align: center;
+   font-size:1.2rem;
+   margin:20px 100px 20px;
+ }
+ @media(max-width:800px){
+   p.game-mechanism{
+     margin:20px;
+   }
+ }
+ img.banner{
+   margin-top:0px;
+   padding:2% 5% 2%;
+ }
+ p.banner{
+   font-size:1.2rem;
+   padding:10% 5% 2%;
+   text-align: center;
+ }
+ p.banner-wechat{
+   font-size:1.2rem;
+   padding:2% 5% 2%;
+   text-align: center;
+ }
+</style>

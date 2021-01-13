@@ -1,0 +1,86 @@
+<style>
+
+body{
+    background-color:#e6a4b4;
+}
+
+/*Nav Bar*/
+.navbar{
+   padding:0 0 3.5rem;
+ }
+ .navbar-brand{
+   font-family: 'Langar', cursive;
+   font-size:10px;
+   font-weight:bold;
+ }
+ .nav-item{
+   padding: 0 18px;
+   font-family: 'Montserrat', sans-serif;
+   font-size:1.5rem;
+ }
+ .nav-link{
+    font-family: 'Montserrat', sans-serif;
+     font-size:1.5rem;
+ }
+/*Title*/
+#title{
+    background-color: #e6a4b4;
+}
+.container-fluid{
+  padding : 2% 10% 10%;
+}
+h1.title{
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:white;
+  padding : 2% 20%;
+  margin-top: 180px;
+}
+
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  }
+img.title{
+  margin-right: 20px;
+}
+ .title-image-work{
+   border-radius: 30%;
+   padding: 2% 5%;
+ }
+ .title-image-work-bake{
+   border-radius: 30%;
+ }
+ p.about-me{
+   font-family: 'Dosis', sans-serif;
+   font-weight: bold;
+   font-size: 1.2rem;
+   padding: 10% 5% 1%;
+ }
+ p.about-me-1{
+   font-family: 'Dosis', sans-serif;
+   font-weight: bold;
+   font-size: 1.2rem;
+   padding: 0% 5%;
+ }
+ p.about-me-2{
+   font-family: 'Dosis', sans-serif;
+   font-weight: 900;
+   font-size: 1.2rem;
+   padding: 0% 5%;
+ }
+ ul.b{
+   padding: 5%;
+ }
+ #footer{
+   padding:2% 2%;
+   text-align: center;
+ }
+ #Copyright{
+   color:#8f8f8f;
+   margin-bottom: 0;
+ }
+</style>

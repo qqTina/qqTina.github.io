@@ -1,0 +1,64 @@
+<style>
+
+body{
+    background-color:#e6a4b4;
+}
+
+/*Nav Bar*/
+.navbar{
+   padding:0 0 3.5rem;
+ }
+ .navbar-brand{
+   font-family: 'Langar', cursive;
+   font-size:10px;
+   font-weight:bold;
+ }
+ .nav-item{
+   padding: 0 18px;
+   font-family: 'Montserrat', sans-serif;
+   font-size:1.5rem;
+ }
+ .nav-link{
+    font-family: 'Montserrat', sans-serif;
+     font-size:1.5rem;
+ }
+/*Title*/
+#title{
+    background-color: #e6a4b4;
+}
+.container-fluid{
+  padding : 2% 10% 10%;
+}
+h1.title{
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:white;
+  padding : 2% 20%;
+  margin-top: 180px;
+}
+p{
+  text-align: center;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  }
+img.title{
+  margin-right: 20px;
+}
+ .title-image-work{
+   border-radius: 30%;
+ }
+ 
+ #footer{
+   padding:2% 2%;
+   text-align: center;
+ }
+ #Copyright{
+   color:#8f8f8f;
+   margin-bottom: 0;
+ }
+</style>
